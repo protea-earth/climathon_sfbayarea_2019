@@ -7,7 +7,7 @@ On October 25, 2019, as part of Global Climathon Day, a dedicated group of hacke
 
 Sign up today @ https://climathon.climate-kic.org/en/san-francisco-the-event-page-2019
 
-## Will include
+## WIP - will include:
 * project demo templates (for presentations)
 * FAQ docs for the event 
 * zoom links to talks
